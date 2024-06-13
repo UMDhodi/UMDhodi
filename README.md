@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 BCA student<br>🔭 Currently working on a chatapp and web music player<br>🌱 Passionate about programming and exploring technology<br>⚡ Enjoys taking ideas from conception to completion<br>✍️ Focuses on writing clean, efficient code for high-quality results<br>💬 Interested in learning about new programming languages and technology trends.
+📚 BCA Graduate <br>🔭 Currently Upgrading my data analyst's skill<br>🌱 Passionate about data and exploring technology<br>⚡ Enjoys taking ideas from conception to completion<br>✍️ Focuses on writing clean, efficient code for high-quality results<br>💬 Interested in learning about new data and technology trends.
 
 
 ## 🌐 Socials:
