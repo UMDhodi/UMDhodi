@@ -12,8 +12,8 @@
 <br/>
 
 <!-- Profile Views + Followers badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6E40C9&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)](https://github.com/YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=UMDhodi&style=flat-square&color=6E40C9&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/UMDhodi?style=social)](https://github.com/UMDhodi)
 
 </div>
 
@@ -28,7 +28,7 @@
 
 ```yaml
 name:        Uday Mayank Dhodi
-location:    Haridwar, UttarKhand 🇮🇳
+location:    Haridwar, Uttarkhand 🇮🇳
 focus:       AI Productivity & Data Storytelling
 working_on:  AI-powered workflow automation
 learning:    Agentic pipelines & RAG systems
@@ -42,10 +42,10 @@ superpower:  Turning a plain prompt into
 <td width="50%" valign="top">
 
 <!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=UMDhodi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" />
 
 <!-- Streak Card -->
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://streak-stats.demolab.com?user=UMDhodi&theme=tokyonight&hide_border=true" width="100%" />
 
 </td>
 </tr>
@@ -61,6 +61,7 @@ superpower:  Turning a plain prompt into
 ![Claude](https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)
 
 </div>
 
@@ -79,6 +80,7 @@ superpower:  Turning a plain prompt into
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)
 
 </div>
 
@@ -100,13 +102,13 @@ superpower:  Turning a plain prompt into
 <div align="center">
 
 <!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UMDhodi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <!-- Contribution Snake (needs GitHub Action — see workflow below) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/UMDhodi/UMDhodi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UMDhodi/UMDhodi/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/UMDhodi/UMDhodi/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -117,10 +119,10 @@ superpower:  Turning a plain prompt into
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter / X](https://img.shields.io/badge/Twitter_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-dhodi/)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@mayankdhodi17)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankdhodi17@gmail.com)
+[![Portfolio](https://shields.io)](YOUR_PORTFOLIO_URL)
 
 </div>
 
@@ -164,5 +166,5 @@ jobs:
 <div align="center">
   <i>"The best prompt is the one that ships."</i>
   <br/><br/>
-  <sub>Built with 🤖 Claude + ❤️ from Meerut</sub>
+  <sub>Built with 🤖 Claude + ❤️ from Haridwar</sub>
 </div>
