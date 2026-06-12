@@ -122,7 +122,7 @@ superpower:  Turning a plain prompt into
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-dhodi/)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@mayankdhodi17)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankdhodi17@gmail.com)
-[![Portfolio](https://shields.io)](YOUR_PORTFOLIO_URL)
+[![MayankDhodi Badge](https://custom-icon-badges.demolab.com/badge/MayankDhodi-080808.svg?logo=mayankdhodi&style=flat-square&logoColor=white)](https://mayankdhodi.vercel.app/)
 
 </div>
 
