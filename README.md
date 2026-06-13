@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<!-- HERO: Dynamic Typing SVG -->
+<!-- HERO: Terminal Banner -->
 <a href="https://github.com/UMDhodi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Uday+%F0%9F%91%8B;AI+Tools+%7C+Data+%7C+Automation;Turning+prompts+into+products;Claude+%E2%80%A2+GPT+%E2%80%A2+Gemini+%E2%80%A2+Excel+%E2%80%A2+Power+BI" alt="Typing SVG" />
+  <img src="banner.svg" alt="Vibe Coding Hangover Banner" width="100%" />
 </a>
 
 <br/>
